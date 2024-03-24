@@ -1,1 +1,1 @@
-# cozy_home-2.0-
+# cozy_home-(2.0)
